@@ -1,0 +1,16 @@
+{
+  "name": "app-workflow",
+  "version": "1.1.0",
+  "description": "从产品需求、品牌与原型到 Flutter 开发、质量验收和 App Store 提审的工作流。",
+  "skills": [
+    "./00_Orchestrator/",
+    "./01_PRD/",
+    "./02_IP/",
+    "./03_UI_UX/",
+    "./04_Dev/",
+    "./05_Feature/",
+    "./06_QA/",
+    "./07_AppStore/",
+    "./08_Learn/"
+  ]
+}

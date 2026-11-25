@@ -1,6 +1,0 @@
-{
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "app-workflow",
-  "version": "1.0.0",
-  "description": "从产品需求、品牌与原型到 Flutter 开发、质量验收和 App Store 提审的工作流。"
-}
