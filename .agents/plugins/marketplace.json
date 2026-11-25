@@ -1,0 +1,20 @@
+{
+  "name": "app-workflow-plugins",
+  "interface": {
+    "displayName": "App Workflow"
+  },
+  "plugins": [
+    {
+      "name": "app-workflow",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

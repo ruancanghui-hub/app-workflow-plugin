@@ -1,0 +1,8 @@
+interface:
+  display_name: "regenerating ui redbox assets"
+policy:
+  products:
+    - "chatgpt"
+    - "codex"
+    - "atlas"
+  allow_implicit_invocation: true
